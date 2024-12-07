@@ -1,8 +1,51 @@
 # Codigo-Penadinho-Projeto-Sistemas-Embarcados
 Repositório que aloca o código em C responsável pelo funcionamento do carrinho intitulado "Penadinho",  desenvolvido durante as aulas da Disciplina de Sistemas Embarcados do 2º DS-AMS 2024. 
 
+## Galeria 👥📷🚗
 
-## Contribuidores 😈
+<div align=center>
+  <table>
+    <tr>
+      <td align="center">
+   <img src="https://github.com/RgoSL/Codigo-Penadinho-Projeto-Sistemas-Embarcados/blob/main/Fotos/GND.jpeg" alt="GND do Microcontrolador" width="300"/><br>
+          <sub>
+            <b>GND</b>
+          </sub> <br>
+        </a>
+      </td>
+      <td align="center">
+          <img src="https://github.com/RgoSL/Codigo-Penadinho-Projeto-Sistemas-Embarcados/blob/main/Fotos/Shield.jpeg" alt="GND do Microcontrolador" width="300"/>
+          <sub>
+            <b>MicroControlador</b>
+          </sub> 
+        </a>
+      </td>
+      </td>
+      <td align="center">
+           <img src="https://github.com/RgoSL/Codigo-Penadinho-Projeto-Sistemas-Embarcados/blob/main/Fotos/Motores.jpeg" alt="GND do Microcontrolador" width="300"/>
+          <sub>
+            <b>Motores</b>
+          </sub> 
+        </a>
+      </td>
+      <td align="center">
+        <img src="https://github.com/RgoSL/Codigo-Penadinho-Projeto-Sistemas-Embarcados/blob/main/Fotos/Chassi.jpeg" alt="GND do Microcontrolador" width="300"/>
+          <sub>
+              <b>Chassi</b>
+            </sub> 
+        </a>
+      </td>
+       <td align="center">
+        <img src="https://github.com/RgoSL/Codigo-Penadinho-Projeto-Sistemas-Embarcados/blob/main/Fotos/GND.jpeg" alt="GND do Microcontrolador" width="300"/>
+          <sub>
+              <b>Resultado</b>
+            </sub> <
+        </a>
+      </td>
+      </div>
+      
+##Colaboradores 😈
+
 
 <div align=center>
   <table>
